@@ -14,5 +14,14 @@
   },
   "author": "",
   "license": "ISC",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjmss/csgo-market-react-user.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jjmss/csgo-market-react-user/issues"
+  },
+  "homepage": "https://github.com/jjmss/csgo-market-react-user#readme",
   "description": ""
 }
